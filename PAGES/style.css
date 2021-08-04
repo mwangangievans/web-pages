@@ -91,6 +91,15 @@
       margin-top: 20px;
       margin: 2rem 0;
   }
+  table, th, td {
+    border: 1px solid black;
+  }.services{
+   
+    margin-left: 50%;
+
+  }.footer{
+    margin-bottom: 0px;
+  }
  
   
   .formless >input{
